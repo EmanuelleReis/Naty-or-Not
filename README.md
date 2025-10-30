@@ -1,4 +1,4 @@
-# 🎮 Natty ou Nonsense?
+# 🎮 Natty or Nonsense?
 
 ## 📒 Descrição
 Um mini jogo divertido onde o jogador tenta adivinhar qual imagem é real e qual foi criada por IA.  

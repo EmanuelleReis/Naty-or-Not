@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Natty or Nonsense?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🐶 Natty or Nonsense?</h1>
+  <h2 id="score">Placar: 0 / 0</h2>
+  <p>Escolha qual imagem você acha que é <strong>real</strong>!</p>
+
+  <div id="game">
+    <div class="image-container">
+      <img id="imgA" src="assets/goldensondika.jpg" alt="Imagem A">
+      <button onclick="choose('A')">A é real</button>
+    </div>
+
+    <div class="image-container">
+      <img id="imgB" src="assets/goldenlendo.jpg.jpg" alt="Imagem B">
+      <button onclick="choose('B')">B é real</button>
+    </div>
+  </div>
+
+  <p id="result"></p>
+
+  <button id="next" onclick="nextRound()">Próxima rodada 🔁</button>
+
+  <script src="script.js"></script>
+</body>
+</html>

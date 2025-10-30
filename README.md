@@ -7,6 +7,7 @@ O projeto foi inspirado na tendência “Natty or Not”, adaptado para o univer
 ## 🤖 Tecnologias Utilizadas
 - **HTML**, **CSS** e **JavaScript**
 - **DALL·E / Leonardo AI** (para gerar as imagens fake)
+- **ChatGPT** — parceiro de brainstorming e coautoria criativa, ajudando a refinar ideias e tornar o projeto mais divertido e coerente.
 - **VS Code** + **Live Server**
 
 ## 🧐 Processo de Criação
